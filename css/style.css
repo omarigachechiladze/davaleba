@@ -1,8 +1,59 @@
 body{
 	padding: 30px 0 0 30px;
 }
-.logo{
-	width: 100px
+.logo{ 
+	width: 88p                      
+	display:inline-block; 
+	margin-right:50px;
+	vertical-align: top;
 
-   display :inline-block;
+
 }
+.active{
+	color: red;
+}
+.nav{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right:21px
+}
+.blue-box{
+	background: blue;	
+	font-size: 32px;
+	display: inline-block;
+	margin-right: : : 103px;
+   
+}
+.image{
+	display: inline-block;
+    margin-right: 39px;
+}
+.article-p{
+	display: inline-block;
+	width: 600px;
+}
+ 
+ .article-box{
+ 	margin-top: 24px;
+ }
+ .nav-a{
+ 	margin-right: 25px;
+ }
+ .mobile{
+ 	color: #808080;
+ 	font-size: 16px;
+ }
+ .text{
+ 	text-align: center;
+ }
+ .nav-li{
+ 	display: inline-block;
+ 	margin-right: 21px;
+ }
+ .image{
+ 	display: inline-block;
+ 	width: 600px;
+ }
+ 
