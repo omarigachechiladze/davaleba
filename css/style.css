@@ -1,6 +1,7 @@
-body{
-	padding: 30px 0 0 30px;
-}
+body
+
+
+
 .logo{ 
 	width: 88p                      
 	display:inline-block; 
@@ -19,24 +20,40 @@ body{
 	display: inline-block;
 	margin-right:21px
 }
+  /*end header*/
+
+  /*banner section*/
+
+  /*end banner section*/
+
+
+
+
+
+
+
+
+
+
+
 .blue-box{
 	background: blue;	
-	font-size: 32px;
+	font-size: 56px;
 	display: inline-block;
-	margin-right: : : 103px;
+	margin-top: 40px;
    
 }
 .image{
 	display: inline-block;
-    margin-right: 39px;
+    margin-right:39px;
+    vertical-align: top;
 }
 .article-p{
 	display: inline-block;
-	width: 600px;
-}
- 
+	width:929px;
+ }
  .article-box{
- 	margin-top: 24px;
+ 	margin-top:20px;
  }
  .nav-a{
  	margin-right: 25px;
@@ -52,8 +69,17 @@ body{
  	display: inline-block;
  	margin-right: 21px;
  }
- .image{
+ .image2{
  	display: inline-block;
  	width: 600px;
  }
- 
+ .active1{
+ 	color: red;
+ }
+.nav-li1{
+	color: red;
+}
+.date{
+	font-size: 22px;
+	color: #3D58A6;
+}
